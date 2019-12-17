@@ -1,0 +1,7 @@
+.container {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYyULaGCR3rwfd14txSyaYyokE4NKjFwRAW4cGqSHJZ79pAk29");
+}
+
+div.list-group-item {
+  background-color: rgba(0, 0, 0, 0.5);
+}
